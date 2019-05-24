@@ -30,5 +30,4 @@ left me little time for feature engineering / data exploration.
 To me, however, a reliable validation scheme is the most important thing, so I'm glad that's
 what I prioritised.
 
-I welcome constructive criticism, as long as it's done with the understanding that this
-work was done with the competition's 2-hour time-limit in mind :)
+Constructive crticism is always welcome :)
